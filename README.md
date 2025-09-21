@@ -1,2 +1,2 @@
-# Bias-Buster
-A Python tool to detect and mitigate bias in datasets.
+# bias-buster
+“A Streamlit app for bias detection and fairness analysis in datasets”.
